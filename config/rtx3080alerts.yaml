@@ -1,0 +1,9 @@
+---
+refresh_interval: 2 # seconds
+max_price: 950 # dollars/euros/etc
+urls:
+  - https://www.amazon.it/ASUS-DisplayPort-cuscinetti-certificazione-militare/dp/B08HHDP9DW
+  - https://www.amazon.it/EVGA-GeForce-10G-P5-3883-KR-Cooling-Backplate/dp/B08HGLN78Q
+  - https://www.amazon.it/MSI-GeForce-Grafica-Express-DisplayPort/dp/B08HM4V2DH
+  - https://www.amazon.it/Gigabyte-AORUS-GeForce-3080-MASTER/dp/B08KHLDS72
+  - https://www.amazon.it/Gigabyte-GeForce-raffreddamento-GV-N3080AORUS-M-10GD/dp/B08KJ3VKLQ

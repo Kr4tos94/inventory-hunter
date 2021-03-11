@@ -7,3 +7,5 @@ __pycache__
 config/alerters.yaml
 data/
 log/
+/config/ProdottiVariAlert.yaml
+/Command Start Example.txt
